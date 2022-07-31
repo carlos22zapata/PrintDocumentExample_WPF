@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "iOxzxuPW8QG5JjBufxtR1S309YeJuH29OxULH3T2FlqeYh+cwMJ/9pSc8PghuxZeK6WurE1ij8xhitQDJDm5dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MyHP\\source\\repos\\PrintDocument\\PrintDocument.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MyHP\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\MyHP\\.nuget\\packages\\rawprint\\0.5.0\\rawprint.0.5.0.nupkg.sha512",
+    "C:\\Users\\MyHP\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"RawPrint 0.5.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "RawPrint",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
